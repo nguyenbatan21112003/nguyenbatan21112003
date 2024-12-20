@@ -17,7 +17,7 @@
 ---
 
 ### ⚡ **Fun Fact**
-I believe the perfect debug session starts with great music and a clear mind. 🎵💻
+🎵💻 I believe the perfect debug session starts with great music and a clear mind. 🎵💻
 
 ---
 
