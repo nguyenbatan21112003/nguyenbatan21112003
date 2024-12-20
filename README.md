@@ -3,7 +3,6 @@
 <h3 align="center">An Aspiring Software Engineer 🚀</h3>
 
 🎶 **Music Enthusiast 
-🎨 Creative Spirit 
 👾 Coding Explorer 
 🎉 Fun Seeker**
 
